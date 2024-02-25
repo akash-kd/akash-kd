@@ -12,4 +12,4 @@
 | <img src="https://api.iconify.design/logos:react.svg" />| <img src="https://api.iconify.design/logos:typescript-icon.svg" /> | <img src="https://api.iconify.design/logos:javascript.svg" /> |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | <img src="https://api.iconify.design/logos:redux.svg" /> |  <img src="https://api.iconify.design/logos:svelte-icon.svg" /> | <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" /> |
-| <img src="https://api.iconify.design/logos:flutter.svg" /> |  <img src="https://api.iconify.design/logos:python.svg" /> | <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" /> |
+| <img src="https://api.iconify.design/logos:flutter.svg" /> |  <img src="https://api.iconify.design/logos:python.svg" /> | <img src="https://api.iconify.design/logos:rust.svg" /> |
