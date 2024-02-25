@@ -7,3 +7,9 @@
 4) [Decentral ID](https://github.com/geeqib23/Decentral-ID) - Won 1st Place in Hack 26
 5) [ECE Soceity](https://github.com/ayush-srivastava99/ECE-Society-) - Member & Maintainer of ECE Soceity
 6) [Final Year Project](https://github.com/akash-kd/Real-Time-Object-Detection-With-OpenCV)
+
+
+| <img src="https://api.iconify.design/logos:react.svg" />| <img src="https://api.iconify.design/logos:typescript-icon.svg" /> | <img src="https://api.iconify.design/logos:javascript.svg" /> |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="https://api.iconify.design/logos:redux.svg" /> |  <img src="https://api.iconify.design/logos:svelte-icon.svg" /> | <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" /> |
+| <img src="https://api.iconify.design/logos:flutter.svg" /> |  <img src="https://api.iconify.design/logos:python.svg" /> | <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" /> |
